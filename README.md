@@ -21,3 +21,10 @@ Technology and Information System
    The talk by Mr. Nik Mohd Habibullah highlighted the importance of mastering technical skills like programming, system analysis, and emerging technologies such as AI, cloud computing, and big data. It also 
    emphasized soft skills like teamwork, communication, and adaptability for long-term success. This session inspired me to bridge the gap between academic knowledge and industry demands by staying updated with 
    trends, working on projects, and continuously improving both technical and interpersonal skills to thrive in the IT field.
+
+4. Assignment 4: Industry Visit 2
+
+   It was the industrial visit that changed my perspective and showed how technology advancement helps industries to change their face. The actual application of cloud computing, AI, and IoT in learning proved it 
+   would make much difference in efficiency and innovation. Emphasis on industry-required skills, programming, cybersecurity, and project management showed me that more needs to be done in terms of enhancement of 
+   both technical and interpersonal skills. This visit again underlined the capability to flex in the atmosphere of continuous change and further urged me with regard to learning and self-improvement in 
+   technology.
