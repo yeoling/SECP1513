@@ -9,7 +9,7 @@ Technology and Information System
    It was very inspiring to learn how EY is into digital transformation and global collaboration, and how Malaysians have the opportunity to work with professionals from other countries. This session motivated me 
    to consider technology consulting as a career that aligns with my passion for innovation and problem-solving.
 
-2. Assignment 2 : Industry Visit 1
+2. Assignment 2 : Industry Visit 1 [(Video)](https://github.com/yeoling/SECP1513/blob/main/Industry%20visit%201%20(Assignment%202).mp4)
 
    Some of the valuable experiences that I gained and the unforgettable memories from the industrial visit to UTM Digital were immense. It opened my eyes on various aspects. During the visit, I had the opportunity 
    to learn how UTM Digital works and how all employees interact with each other. I was impressed because every employee working in UTM Digital shares one goal, which is to make university life easier for the 
