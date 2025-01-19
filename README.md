@@ -22,7 +22,7 @@ Technology and Information System
    emphasized soft skills like teamwork, communication, and adaptability for long-term success. This session inspired me to bridge the gap between academic knowledge and industry demands by staying updated with 
    trends, working on projects, and continuously improving both technical and interpersonal skills to thrive in the IT field.
 
-4. Assignment 4: Industry Visit 2
+4. Assignment 4: Industry Visit 2 [(Newsletter)](https://github.com/yeoling/SECP1513/blob/main/Assignment4.zip)
 
    It was the industrial visit that changed my perspective and showed how technology advancement helps industries to change their face. The actual application of cloud computing, AI, and IoT in learning proved it 
    would make much difference in efficiency and innovation. Emphasis on industry-required skills, programming, cybersecurity, and project management showed me that more needs to be done in terms of enhancement of 
