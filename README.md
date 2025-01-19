@@ -28,3 +28,9 @@ Technology and Information System
    would make much difference in efficiency and innovation. Emphasis on industry-required skills, programming, cybersecurity, and project management showed me that more needs to be done in terms of enhancement of 
    both technical and interpersonal skills. This visit again underlined the capability to flex in the atmosphere of continuous change and further urged me with regard to learning and self-improvement in 
    technology.
+
+5. Design Thinking
+
+   The Design Thinking project was a very rich experience, through which my problem-solving and teamwork abilities sharpened. It also drove me toward the power of empathy: making a solution tailored to the users' 
+   needs. The whole process-from brainstorming to prototyping-revealed creativity, adaptability, and collaboration. Iteration in design really hammered into me that things keep on going and improvement never 
+   stops. This project has equipped me with essential skills for overcoming future challenges and reinforced my appreciation for user-centered design. 
