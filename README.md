@@ -16,7 +16,7 @@ Technology and Information System
    students who come to study here at UTM. They have done many apps and services to make life easier on campus, which made the student's life smoother and more interactive. This visit not only broadened my 
    understanding of digital innovation but also inspired me to create solutions that can make a difference in the lives of citizens.
 
-3. Assignment 3: Industry Talk 2 [(Report)]()
+3. Assignment 3: Industry Talk 2 [(Report)](https://github.com/yeoling/SECP1513/blob/main/Assignment%203.docx)
 
    The talk by Mr. Nik Mohd Habibullah highlighted the importance of mastering technical skills like programming, system analysis, and emerging technologies such as AI, cloud computing, and big data. It also 
    emphasized soft skills like teamwork, communication, and adaptability for long-term success. This session inspired me to bridge the gap between academic knowledge and industry demands by staying updated with 
