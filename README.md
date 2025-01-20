@@ -2,7 +2,7 @@
 Technology and Information System
 
 # Reflection
-1. Assignment 1: Industry Talk 1 [(Poster)]()
+1. Assignment 1: Industry Talk 1 [(Poster)](https://github.com/yeoling/SECP1513/blob/main/Assignment%201.jpg)
    
    The EY Technology Consultant talk was quite enlightening, focusing on the roles of technical and functional consultants in solving organizational challenges. It also emphasized the importance of a positive 
    attitude, teamwork, and adaptability, even for those without programming experience.
