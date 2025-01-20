@@ -34,3 +34,10 @@ Technology and Information System
    The Design Thinking project was a very rich experience, through which my problem-solving and teamwork abilities sharpened. It also drove me toward the power of empathy: making a solution tailored to the users' 
    needs. The whole process-from brainstorming to prototyping-revealed creativity, adaptability, and collaboration. Iteration in design really hammered into me that things keep on going and improvement never 
    stops. This project has equipped me with essential skills for overcoming future challenges and reinforced my appreciation for user-centered design. 
+
+# Reflection 
+
+   The Technology and Information Systems course this semester was an enlightenment for me regarding the ways technology could support business enterprises and society. Besides learning conceptually, I applied my 
+   skills to real challenges: system analysis, user interface design, and basic concepts of IT, including database management in the development of the app Feast Finders. My teamwork, creativity, and problem- 
+   solving also improved with the course. To improve, I would include more projects with real-world applications, advanced tools such as C++, and guest lectures from industry experts. Overall, this course 
+   inspired me to explore advanced IT topics and pursue innovative, user-focused solutions that combine technology and design.
